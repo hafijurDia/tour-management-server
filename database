@@ -1,0 +1,6 @@
+const databaseInfo = {
+    user: 'tourmangement',
+    password: 'J3xfyNDBYA8BXldD',
+}
+
+module.exports = databaseInfo; // Export the object
